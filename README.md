@@ -30,6 +30,14 @@
 </p>
 
 ---
+###  My Coding Portfolio
+
+I use **Codolio** to aggregate my coding activity, performance stats across platforms.
+
+-  **Codolio Portfolio:** [View My Codolio Profile](https://codolio.com/profile/Shobhit21)
+
+*(Codolio displays your GitHub contributions, coding platform stats,more—all in one unified view.)*
+
 
 ### 🛠 **Languages & Tools**
 <p align="center">
