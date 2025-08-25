@@ -58,7 +58,7 @@ I use **Codolio** to aggregate my coding activity, performance stats across plat
 ### 🚀 **Live Project Demos**
 | Project Name | Description | Live Link |
 |-------------|-------------|-----------|
-| **Smart Agriculture Advisor** | AI-powered platform for crop recommendation, price prediction, and disease detection | [🔗 Live Demo](http://104.214.171.34:8084/api/AgriConnect) |
+| **Smart Agriculture Advisor** | AI-powered platform for crop recommendation, price prediction, and disease detection | [🔗 Live Demo](http://104.214.171.34:8084/api/Agriconnect) |
 | **StockStick** | Inventory management system with Spring Boot & MySQL | [🔗 Live Demo](http://104.214.171.34:8083/app/StockStick.com) |
 
 ---
