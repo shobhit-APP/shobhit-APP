@@ -9,7 +9,7 @@
 ---
 
 ### 🌟 **About Me**
-- 🔭 **Currently working on:** [Smart Agriculture Advisor](http://104.214.171.34:8084/api/AgriConnect) – AI-powered platform for crop recommendation, price prediction, and disease detection.
+- 🔭 **Currently working on:** [Smart Agriculture Advisor](http://104.214.171.34:8084/api/Agriconnect) – AI-powered platform for crop recommendation, price prediction, and disease detection.
 - 🌱 **Learning:** Advanced **Spring Boot**, **AI/ML Model Deployment**, **AWS/Azure Cloud**.
 - 🛠 **Projects:**  
   ✅ [Smart Agriculture Advisor](http://104.214.171.34:8084/api/Agriconnect)  
