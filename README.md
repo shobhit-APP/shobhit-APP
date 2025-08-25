@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shobhit Srivastava</h1>
-<h3 align="center">🚀 Computer Science Undergrad | Backend Engineer | AI/ML Enthusiast</h3>
+<h3 align="center">Backend Developer (Java, Spring Boot) | React & React Native | System Design | AI/ML Learner | Cloud Deployments on Azure & Droplets</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=shobhit-app&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
