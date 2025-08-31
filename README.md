@@ -41,8 +41,9 @@ I use **Codolio** to aggregate my coding activity, performance stats across plat
 
 ### 🛠 **Languages & Tools**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,react,reactnative,docker,redis,mysql,aws,azure,git,github,html,css,js,flask,tensorflow" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,reactnative,flutter,dart,docker,redis,mysql,aws,azure,git,github,html,css,js,flask,tensorflow" />
 </p>
+
 
 ---
 
