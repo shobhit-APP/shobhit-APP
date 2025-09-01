@@ -12,8 +12,8 @@
 - 🔭 **Currently working on:** [Smart Agriculture Advisor](http://104.214.171.34:8084/api/Agriconnect) – AI-powered platform for crop recommendation, price prediction, and disease detection.
 - 🌱 **Learning:** Advanced **Spring Boot**, **AI/ML Model Deployment**, **AWS/Azure Cloud**.
 - 🛠 **Projects:**  
-  ✅ [Smart Agriculture Advisor](http://104.214.171.34:8084/api/Agriconnect)  
-  ✅ [StockStick (Inventory Management System)](http://104.214.171.34:8083/app/StockStick.com)
+  ✅ [Smart Agriculture Advisor](http://68.210.136.174:8084/api/Agriconnect)  
+  ✅ [StockStick (Inventory Management System)](http://68.210.136.174:8083/app/StockStick.com)
 - 💬 **Ask me about:** Java, Spring Boot, AI/ML, React, React Native, System Design, Docker, Cloud.
 - 📫 **Reach me at:** [shobhitsrivastava2004@gmail.com](mailto:shobhitsrivastava2004@gmail.com)
 - 📄 **Resume:** [View Here](https://drive.google.com/file/d/1okhYh_IMerIDNJXuovQlKAkIDyAbwTxM/view)
@@ -59,8 +59,8 @@ I use **Codolio** to aggregate my coding activity, performance stats across plat
 ### 🚀 **Live Project Demos**
 | Project Name | Description | Live Link |
 |-------------|-------------|-----------|
-| **Smart Agriculture Advisor** | AI-powered platform for crop recommendation, price prediction, and disease detection | [🔗 Live Demo](http://104.214.171.34:8084/api/Agriconnect) |
-| **StockStick** | Inventory management system with Spring Boot & MySQL | [🔗 Live Demo](http://104.214.171.34:8083/app/StockStick.com) |
+| **Smart Agriculture Advisor** | AI-powered platform for crop recommendation, price prediction, and disease detection | [🔗 Live Demo](http://68.210.136.174:8084/api/Agriconnect) |
+| **StockStick** | Inventory management system with Spring Boot & MySQL | [🔗 Live Demo](http://68.210.136.174:8083/app/StockStick.com) |
 
 ---
 
