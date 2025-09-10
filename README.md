@@ -20,7 +20,7 @@
   ✅ [StockStick (Inventory Management System)](http://68.210.136.174:8083/app/StockStick.com)  
 - 💬 **Ask me about:** Java ☕, Spring Boot, AI/ML 🤖, React ⚛️, System Design 🏗️, Docker 🐳, Cloud ☁️  
 - 📫 **Reach me at:** [shobhitsrivastava2004@gmail.com](mailto:shobhitsrivastava2004@gmail.com)  
-- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1okhYh_IMerIDNJXuovQlKAkIDyAbwTxM/view)
+- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1R3F1L-9ukSag-quztwDUKxYgE-rAuDkD/view?usp=drive_link)
 
 ---
 
