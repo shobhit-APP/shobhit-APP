@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shobhit Srivastava</h1>
-<h3 align="center">🚀 Backend Developer (Java, Spring Boot) | React & React Native | System Design | AI/ML Learner | Cloud Enthusiast ☁️</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+Developer+(Java+%26+Spring+Boot);React+%26+React+Native+Developer;System+Design+Enthusiast;AI%2FML+Learner;Cloud+Deployments+on+Azure+%26+Droplets" alt="Typing Animation" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shobhit-app&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views"/>
@@ -10,7 +13,7 @@
 ---
 
 ### 🌟 **About Me**
-- 🔭 **Currently working on:** [Smart Agriculture Advisor](http://68.210.136.174:8084/api/Agriconnect) 🌱 – AI-powered platform for crop recommendation, price prediction, and disease detection.
+- 🔭 **Currently working on:** [Smart Agriculture Advisor](http:68.210.136.174//:8084/api/Agriconnect) 🌱 – AI-powered platform for crop recommendation, price prediction, and disease detection.
 - 🌱 **Learning:** Advanced **Spring Boot**, **AI/ML Deployment**, **AWS/Azure Cloud**.
 - 🛠 **Projects:**  
   ✅ [Smart Agriculture Advisor](http://68.210.136.174:8084/api/Agriconnect)  
@@ -54,14 +57,11 @@ I use **Codolio** to aggregate my coding activity & performance stats across pla
 
 ---
 
-### 🎉 Fun Animations
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Backend+Developer;AI%2FML+Learner;System+Designer;Cloud+Enthusiast;React+%26+React+Native+Developer" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+### 🚀 **Live Project Demos**
+| Project Name | Description | Live Link |
+|-------------|-------------|-----------|
+| **Smart Agriculture Advisor** | AI-powered platform for crop recommendation, price prediction, and disease detection | [🔗 Live Demo](http://68.210.136.174:8084/api/Agriconnect) |
+| **StockStick** | Inventory management system with Spring Boot & MySQL | [🔗 Live Demo](http://68.210.136.174:8083/app/StockStick.com) |
 
 ---
 
