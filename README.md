@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shobhit Srivastava</h1>
+[![An image of @shobhitapp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shobhitapp)](https://holopin.io/@shobhitapp)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+Developer+(Java+%26+Spring+Boot);React+%26+React+Native+Developer;System+Design+Enthusiast;AI%2FML+Learner;Cloud+Deployments+on+Azure+%26+Droplets" alt="Typing Animation" />
