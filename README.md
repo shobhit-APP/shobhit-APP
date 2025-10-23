@@ -14,11 +14,10 @@
 ---
 
 ### 🌟 **About Me**
-- 🔭 **Currently working on:** [Smart Agriculture Advisor](https://shobhit-app.github.io/UnderMaintainces/) 🌱 – AI-powered platform for crop recommendation, price prediction, and disease detection.
+- 🔭 **Currently working on:** [Smart Agriculture Advisor](https://github.com/shobhit-APP/Agriconnect) 🌱 – AI-powered platform for crop recommendation, price prediction, and disease detection.
 - 🌱 **Learning:** Advanced **Spring Boot**, **AI/ML Deployment**, **AWS/Azure Cloud**.
 - 🛠 **Projects:**  
-  ✅ [Smart Agriculture Advisor](https://shobhit-app.github.io/UnderMaintainces/)  
-  ✅ [StockStick (Inventory Management System)](https://shobhit-app.github.io/UnderMaintainces/)  
+  ✅ [Smart Agriculture Advisor](https://github.com/shobhit-APP/Agriconnect)  
 - 💬 **Ask me about:** Java ☕, Spring Boot, AI/ML 🤖, React ⚛️, System Design 🏗️, Docker 🐳, Cloud ☁️  
 - 📫 **Reach me at:** [shobhitsrivastava2004@gmail.com](mailto:shobhitsrivastava2004@gmail.com)  
 - 📄 **Resume:** [View Here](https://drive.google.com/file/d/1R3F1L-9ukSag-quztwDUKxYgE-rAuDkD/view?usp=drive_link)
