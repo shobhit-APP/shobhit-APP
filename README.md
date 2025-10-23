@@ -58,12 +58,4 @@ I use **Codolio** to aggregate my coding activity & performance stats across pla
 
 ---
 
-### 🚀 **Live Project Demos**
-| Project Name | Description | Live Link |
-|-------------|-------------|-----------|
-| **Smart Agriculture Advisor** | AI-powered platform for crop recommendation, price prediction, and disease detection | [🔗 Live Demo](https://shobhit-app.github.io/UnderMaintainces/) |
-| **StockStick** | Inventory management system with Spring Boot & MySQL | [🔗 Live Demo](https://shobhit-app.github.io/UnderMaintainces/) |
-
----
-
 🔥 **Fun Fact:** *“Code is like humor. When you have to explain it, it’s bad.”* 😎
