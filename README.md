@@ -14,7 +14,9 @@
 ---
 
 ### 🌟 **About Me**
-- 🔭 **Currently working on:** [Smart Agriculture Advisor](https://github.com/shobhit-APP/Agriconnect) 🌱 – AI-powered platform for crop recommendation, price prediction, and disease detection.
+- 🔭 **Currently working on:** [Smart Agriculture Advisor](https://github.com/shobhit-APP/Agriconnect )
+-  🔭 **Currently working on:** [Smart Agriculture Advisor Rest Version](https://github.com/shobhit-APP/SmartAgricutureAdvsior ) 
+  🌱 – AI-powered platform for crop recommendation, price prediction, and disease detection.
 - 🌱 **Learning:** Advanced **Spring Boot**, **AI/ML Deployment**, **AWS/Azure Cloud**.
 - 🛠 **Projects:**  
   ✅ [Smart Agriculture Advisor](https://github.com/shobhit-APP/Agriconnect)  
